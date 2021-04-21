@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkSeliter
+- Hi, I’m @MarkSeliter
 - I'm a Cyber Security enthusiast
 - Currently studying at CIP 8200
 
