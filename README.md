@@ -1,6 +1,6 @@
 - Hi, I’m @MarkSeliter
-- I'm a Cyber Security enthusiast
-- Currently studying at CIP 8200
+- I'm a cyber security enthusiast
+
 
 <!---
 MarkSeliter/MarkSeliter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
