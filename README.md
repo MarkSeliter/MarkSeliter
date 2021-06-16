@@ -1,6 +1,6 @@
 - Hi, I’m @MarkSeliter :)
 - I'm an aspiring ethical hacker
-- Making my dream a reality, one CTF, lab, project at a time.
+- Making my dream a reality, one CTF/ lab/ project at a time.
 
 
 <!---
