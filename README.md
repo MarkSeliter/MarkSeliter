@@ -1,5 +1,6 @@
-- Hi, I’m @MarkSeliter
-- I'm a cyber security enthusiast
+- Hi, I’m @MarkSeliter :)
+- I'm an aspiring ethical hacker
+- Just trying to make the dream a reality
 
 
 <!---
